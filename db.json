@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Flower",
+      "price": 3.34
+    },
+    {
+      "name": "Coke",
+      "price": 1.55
+    },
+    {
+      "name": "Potatos",
+      "price": 0.87
+    },
+    {
+      "name": "Tea",
+      "price": 2.11
+    },
+    {
+      "name": "Cofffe",
+      "price": 12.01
+    }
+  ]
+}
